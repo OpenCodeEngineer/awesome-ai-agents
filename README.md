@@ -608,6 +608,7 @@ Table of Contents:
 - [jo-inc/camofox-browser](https://github.com/jo-inc/camofox-browser) (6065 JavaScript) - Camofox-browser is a stealth headless browser server, powered by Camoufox (a Firefox fork with C++ level fingerprint spoofing), designed for AI agents to bypass bot detection and anti-scraping meas...
 - [microsoft/fara](https://github.com/microsoft/fara) (5347 Python) - Fara-7B is a compact and efficient agentic small language model by Microsoft designed to perform multi-step computer tasks through visual interaction, achieving state-of-the-art performance on web automation benchmarks while enabling on-device deployment for privacy and low latency.
 - [ntegrals/openbrowser](https://github.com/ntegrals/openbrowser) (9463 TypeScript) - Openbrowser is an autonomous toolkit designed to enable AI agents to browse and interact with the web using Playwright and Puppeteer, facilitating automation and information gathering.
+- [Vibe AI Browser Co-Pilot](https://chromewebstore.google.com/detail/vibe-ai-browser-co-pilot/djodpgokbmobeclicaicnnidccoinado) - Chrome extension that multiplexes CDP connections, enabling multiple simultaneous AI agents to share one real Chrome session without ownership conflicts. `browser` `MCP` `CDP` `multi-agent`
 
 #### Web Agents
 
